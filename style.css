@@ -1,0 +1,251 @@
+body{
+ background: url(img/hd_riders.jpg) repeat;
+
+}
+
+div{}
+.topo{
+    width:1600px;
+    height:120px;
+    background-color:black;
+    position:sticky;
+    left:0%;
+    top:0%;
+    margin:auto;
+    border:auto;
+    z-index: 1;
+               
+}
+.link_topo:link{
+    color:whitesmoke;
+    
+}
+.link_topo:active{
+    color:lawngreen;
+    
+}
+.link_topo:hover{
+    color:lightgreen;
+    
+}
+.link_topo:visited{
+    color:;
+    
+}
+#logo{
+    width:100px;
+    height:100px;
+    background-color:;
+    position:absolute;
+    left:10%;
+    top:2%;
+    margin:auto;
+    padding:;
+}
+#sobre{
+    width:auto;
+    height:auto;
+    background-color:;
+    position:absolute;
+    left:20%;
+    top:30%;
+    margin:auto;
+    padding:;
+    font-family:Times;
+    font-size:25px;
+    
+}
+#contato{
+    width:auto;
+    height:auto;
+    background-color:;
+    position:absolute;
+    left:37%;
+    top:30%;
+    margin:auto;
+    padding:;
+    font-family:Times;
+    font-size:25px;
+}
+.conteudo{
+    width:1100px;
+    height:1168px ;
+    background-color:black;
+    position:relative;
+    margin:auto;
+    left:0%;
+    top:3%;
+    padding-top:20px; 
+    text-align: justify;
+    
+}
+.sobre{
+    width:700px;
+    height:650px ;
+    background-color:;
+    position:relative;
+    margin:auto;
+    left:0%;
+    top:0%;
+    padding-top:0px; 
+    text-align:;
+    
+}
+.conteudo_foto01{
+     width:auto;
+    height:auto;
+    background-color:;
+    position:relative;
+    left:;
+    top:10%;
+    margin:auto;
+    padding-left:0%;
+    font-family:Times;
+    z-index:0;
+}
+#conteudo_foto02{
+    width:40%;
+    height:auto;
+    background-color:;
+    position:absolute;
+    left:0%;
+    top:60%;
+    margin:auto;
+    padding-left:7%;
+    font-family:Times;
+    z-index:1;
+}
+#conteudo2_foto02{
+    width:40%;
+    height:auto;
+    background-color:;
+    position:absolute;
+    left:0%;
+    top:62%;
+    margin:auto;
+    padding-left:7%;
+    padding-top:-3%; 
+    font-family:Times;
+    color: white;
+    z-index:0;
+}
+
+#foto01_index{
+    width:auto;
+    height:auto;
+    background-color:;
+    position:absolute;
+    left:0%;
+    top:0%;
+    margin:auto;
+    z-index: 0;
+    opacity:0.4;
+    
+    
+}
+#foto02_index{
+    width:auto;
+    height:auto;
+    background-color:;
+    position:absolute;
+    left:50%;
+    top:60%;
+    margin:auto;
+    z-index: 0;
+    opacity:;
+    
+    
+}
+#but_motors_foto01{
+    width:auto;
+    height:auto;
+    background-color:;
+    position:relative;
+    left:0%;
+    top:60%;
+    margin:auto;
+    padding-top:10%;
+    font-family:Times;
+    
+}
+#cxtext01{
+    width:600px;
+    height:400px;
+    background-color:;
+    position:relative;
+    left:0%;
+    top:2%;
+    margin:auto;
+    padding-left:0%;
+    font-family:Times;
+    font-size:26px; 
+}
+#cxtext02{
+    width:400px;
+    height:300px;
+    background-color:;
+    position:relative;
+    left:3%;
+    top:10%;
+    margin:-3;
+    padding-left:0%;
+    font-family:Times;
+     
+}
+#foto02{
+    width:auto;
+    height:auto;
+    background-color:;
+    position:absolute;
+    left:120%;
+    top:10%;
+    margin:auto;
+    z-index: ;
+    opacity:;
+    padding-left: 
+}
+#duvidas{
+    width:600;
+    height:600px;
+    background-color:;
+    position:relative;
+    left:;
+    top:;
+    margin:auto;
+    padding-left:80px;
+    font-family:Times;
+   
+}
+#agradecimento{
+    width:auto;
+    height:auto;
+    background-color:;
+    position:relative;
+    left:-13%;
+    top:;
+    margin:auto;
+    padding-left:20px;
+    font-family:Times;
+}
+.rodape{
+    width:1500px;
+    height:70px;
+    background-color:black;
+    position:relative;
+    left:0%;
+    top:0%;
+    margin:auto;
+    padding-left:;
+}
+#text_rodape{
+    width:auto;
+    height:auto;
+    background-color:;
+    position:absolute;
+    left:43%;
+    top:0%;
+    margin:auto;
+    padding-left:0%;
+    font-family:Times;
+    opacity:0.4; 
+}
